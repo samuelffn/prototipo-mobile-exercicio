@@ -1,3 +1,4 @@
+node_modules/**/*
 .expo/*
 npm-debug.*
 *.jks
@@ -7,32 +8,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-web-report/
-package-lock.json
-a.expo
-
-# misc
-npm-debug.log
-yarn-error.log
-
-# dependencies
-/node_modules
-
-# IDE - VSCode
-.vscode/*
-.vscode/settings.json
-.vscode/tasks.json
-.vscode/launch.json
-.vscode/extensions.json
 
 # macOS
 .DS_Store
-
-# compiled output
-/dist
-/tmp
-/out-tsc
-
-
-
-
